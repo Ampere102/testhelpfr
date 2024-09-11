@@ -497,5 +497,3 @@ spawn(function()
 pcall(v)
 end)
 end
-    end
-})
